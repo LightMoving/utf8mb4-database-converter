@@ -1,10 +1,3 @@
-## Changelog
-
-### 1.0.26
-
-Change: Clean-up & Compatibility
-Framework Responsiveness
-
 ![LightMoving UTF8MB4 Converter](assets/banner-1544x500.png)
 
 # LightMoving UTF8MB4 Converter
@@ -78,6 +71,10 @@ No database conversion occurs automatically on activation.
 3. Go to:
 
 ## 📜 Changelog
+
+### 1.0.26
+Change: Clean-up & Compatibility
+Framework Responsiveness
 
 ### 1.0.25
 - Release packaged and verified with WordPress Plugin Publisher
