@@ -72,6 +72,9 @@ No database conversion occurs automatically on activation.
 
 ## 📜 Changelog
 
+### 1.0.25
+- Release packaged and verified with WordPress Plugin Publisher
+  
 ### 1.0.22
 - Update data file
 
@@ -108,10 +111,3 @@ No database conversion occurs automatically on activation.
 ```txt
 Tools → LightMoving UTF8MB4 Converter
 
-## Changelog
-
-### 1.0.25
-
-Publisher Payload: `c43ca4de6c628f2d…`
-
-Release packaged and verified with WordPress Plugin Publisher.
