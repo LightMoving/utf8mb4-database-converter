@@ -1,9 +1,16 @@
+## Changelog
+
+### 1.0.26
+
+Change: Clean-up & Compatibility
+Framework Responsiveness
+
 ![LightMoving UTF8MB4 Converter](assets/banner-1544x500.png)
 
 # LightMoving UTF8MB4 Converter
 
-![Version](https://img.shields.io/badge/version-1.0.25-blue)
-![WordPress](https://img.shields.io/badge/WordPress-7.0.2%2B-blue)
+![Version](https://img.shields.io/badge/version-1.0.26-blue)
+![WordPress](https://img.shields.io/badge/WordPress-7.1-blue)
 ![License](https://img.shields.io/badge/license-GPL%20v2-green)
 
 Safely scan and convert WordPress database tables to UTF8MB4 for emoji and 4-byte Unicode support.
