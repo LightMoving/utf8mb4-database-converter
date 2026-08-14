@@ -2,7 +2,7 @@
 
 # LightMoving UTF8MB4 Converter
 
-![Version](https://img.shields.io/badge/version-1.0.22-blue)
+![Version](https://img.shields.io/badge/version-1.0.25-blue)
 ![WordPress](https://img.shields.io/badge/WordPress-7.0.2%2B-blue)
 ![License](https://img.shields.io/badge/license-GPL%20v2-green)
 
@@ -107,3 +107,11 @@ No database conversion occurs automatically on activation.
 
 ```txt
 Tools → LightMoving UTF8MB4 Converter
+
+## Changelog
+
+### 1.0.25
+
+Publisher Payload: `c43ca4de6c628f2d…`
+
+Release packaged and verified with WordPress Plugin Publisher.
