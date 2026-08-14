@@ -73,8 +73,8 @@ No database conversion occurs automatically on activation.
 ## 📜 Changelog
 
 ### 1.0.26
-Change: Clean-up & Compatibility
-Framework Responsiveness
+- Change: Clean-up & Compatibility
+- Framework Responsiveness
 
 ### 1.0.25
 - Release packaged and verified with WordPress Plugin Publisher
